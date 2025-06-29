@@ -1,4 +1,6 @@
 fastapi
-uvicorn
-requests
+aiohttp
 python-multipart
+python-dotenv
+supabase
+uvicorn
