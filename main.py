@@ -12,6 +12,13 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+
+async def read_root():
+
+    return {"message": "Welcome to the Pet Photo Transformer API!"}
+
+
 with open("prompts.json", "r") as f:
     PROMPTS = json.load(f)
 
