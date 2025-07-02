@@ -15,7 +15,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
+#i swear i cant accomplish literally anything meaningful 
 # --- Load Prompts ---
 # This path is now updated to look inside the 'prompts' folder
 with open("prompts.json", "r") as f:
