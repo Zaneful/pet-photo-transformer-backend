@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "Watercolor Painting",
+    "promptText": "Transform the photo into a soft, vibrant watercolor painting with blended colors and delicate brush strokes."
+  },
+  {
+    "id": 2,
+    "title": "Oil Painting",
+    "promptText": "Reimagine the photo as a classical oil painting with rich textures, deep shadows, and a dramatic, timeless feel."
+  },
+  {
+    "id": 3,
+    "title": "Pencil Sketch",
+    "promptText": "Convert the photo into a detailed, hand-drawn pencil sketch, emphasizing lines, shading, and texture."
+  },
+  {
+    "id": 4,
+    "title": "Pop Art",
+    "promptText": "Andy Warhol style pop art, using bold, contrasting colors and repeated patterns, as if it were a screen print."
+  },
+  {
+    "id": 5,
+    "title": "Anime Style",
+    "promptText": "Redraw the subject in a vibrant, modern anime/manga style with expressive eyes, dynamic lines, and cel-shaded colors."
+  },
+  {
+    "id": 6,
+    "title": "Steampunk",
+    "promptText": "Reimagine the subject in a steampunk world, adorned with brass gears, copper pipes, goggles, and Victorian-era technology."
+  },
+  {
+    "id": 7,
+    "title": "Cyberpunk Neon",
+    "promptText": "A cyberpunk version of the photo, drenched in neon lights, with futuristic cybernetic enhancements and a gritty, high-tech city background."
+  },
+  {
+    "id": 8,
+    "title": "Vintage Film Look",
+    "promptText": "Give the photo a nostalgic, vintage film aesthetic, with faded colors, light leaks, and a grainy texture like an old photograph."
+  },
+  {
+    "id": 9,
+    "title": "Gothic Horror",
+    "promptText": "A gothic horror movie poster from the 1950s, with dramatic shadows, eerie lighting, and a sense of suspense."
+  },
+  {
+    "id": 10,
+    "title": "Film Noir",
+    "promptText": "A high-contrast, black and white film noir scene, with dramatic lighting from Venetian blinds, deep shadows, and a mysterious mood."
+  },
+  {
+    "id": 11,
+    "title": "Fairy Tale",
+    "promptText": "Illustrate the subject as a character in a classic fairy tale, with enchanted forest surroundings and a storybook feel."
+  },
+  {
+    "id": 12,
+    "title": "Superhero Comic",
+    "promptText": "Transform the photo into a classic comic book panel, with bold outlines, Ben-Day dots, and dramatic action lines."
+  },
+  {
+    "id": 13,
+    "title": "Fantasy Knight",
+    "promptText": "Depict the subject as a noble fantasy knight in shining armor, holding a sword, with a castle in the background."
+  },
+  {
+    "id": 14,
+    "title": "Space Explorer",
+    "promptText": "The subject as an astronaut exploring a strange, alien planet with bizarre flora and two moons in the sky."
+  },
+  {
+    "id": 15,
+    "title": "Double Exposure",
+    "promptText": "A creative double exposure effect, blending the photo with a scenic landscape like a forest or a mountain range."
+  },
+  {
+    "id": 16,
+    "title": "Holographic Glitch",
+    "promptText": "A futuristic, holographic glitch effect, with digital artifacts, scan lines, and a distorted, glowing blue and pink aura."
+  },
+  {
+    "id": 17,
+    "title": "Art Deco",
+    "promptText": "An elegant Art Deco style poster, characterized by bold geometric shapes, lavish ornamentation, and a 1920s jazz-age glamour."
+  },
+  {
+    "id": 18,
+    "title": "Surrealist Dream",
+    "promptText": "A dreamlike, surrealist version of the photo, with melting objects, illogical scenery, and a mysterious, subconscious feel."
+  },
+  {
+    "id": 19,
+    "title": "Minimalist Line Art",
+    "promptText": "Reduce the photo to minimalist, one-line art, capturing the essential form with a single, continuous, elegant line."
+  },
+  {
+    "id": 20,
+    "title": "Claymation Figure",
+    "promptText": "Recreate the photo as if the subject were a stop-motion claymation figure, with exaggerated features and a textured, handmade look."
+  },
+  {
+    "id": 21,
+    "title": "Stained Glass",
+    "promptText": "Transform the image into a luminous stained glass window, with bold black lines separating vibrant, glowing panes of color."
+  },
+  {
+    "id": 22,
+    "title": "Ancient Hieroglyph",
+    "promptText": "Depict the subject as an ancient Egyptian hieroglyph painted on a stone wall, in a classic, stylized profile view."
+  },
+  {
+    "id": 23,
+    "title": "Tribal Tattoo Art",
+    "promptText": "Convert the image into a bold, black ink tribal tattoo design, using sharp, flowing lines and abstract patterns."
+  },
+  {
+    "id": 24,
+    "title": "Pixel Art",
+    "promptText": "Recreate the photo as 16-bit pixel art, as if it were a character or scene from a classic video game."
+  },
+  {
+    "id": 25,
+    "title": "Toy Block Figure",
+    "promptText": "Reimagine the subject as if it were built from popular toy bricks, with a blocky, colorful, and playful appearance."
+  },
+  {
+    "id": 26,
+    "title": "Ghostly Apparition",
+    "promptText": "A ghostly, ethereal version of the subject, translucent and glowing with a faint, eerie light."
+  },
+  {
+    "id": 27,
+    "title": "Fire Elemental",
+    "promptText": "Transform the subject into a being of pure fire, with flickering flames for hair and skin made of living magma."
+  },
+  {
+    "id": 28,
+    "title": "Ice Sculpture",
+    "promptText": "Carved from a single block of clear, glistening ice, the subject is a beautiful, frozen ice sculpture."
+  },
+  {
+    "id": 29,
+    "title": "Forest Spirit",
+    "promptText": "The subject as a mythical forest spirit, with skin made of bark, leaves for hair, and glowing mushroom companions."
+  },
+  {
+    "id": 30,
+    "title": "Cloud Formation",
+    "promptText": "The subject's form seen as a soft, white cloud formation against a bright blue sky."
+  },
+  {
+    "id": 31,
+    "title": "Old World Map",
+    "promptText": "Drawn in the style of an ancient, 'Here be dragons' world map, on aged parchment with classic cartographic illustrations."
+  },
+  {
+    "id": 32,
+    "title": "Blueprint Drawing",
+    "promptText": "An architectural blueprint of the subject, drawn in white lines on a blue background with technical annotations."
+  },
+  {
+    "id": 33,
+    "title": "Psychedelic Art",
+    "promptText": "A 1960s psychedelic rock poster, with swirling, vibrant, and highly detailed patterns and distorted, flowing text."
+  },
+  {
+    "id": 34,
+    "title": "Golden Statue",
+    "promptText": "Transform the subject into a polished, reflective golden statue on a marble pedestal."
+  },
+  {
+    "id": 35,
+    "title": "Origami Paper Art",
+    "promptText": "The subject as if it were crafted from a single sheet of folded paper, in an intricate origami style."
+  },
+  {
+    "id": 36,
+    "title": "Low Poly Geometric",
+    "promptText": "A modern, low-poly geometric art style, using a mesh of colorful triangles and polygons to form the subject."
+  },
+  {
+    "id": 37,
+    "title": "Impressionist Painting",
+    "promptText": "An impressionist masterpiece in the style of Monet, with visible brushstrokes, emphasis on light, and a soft, hazy quality."
+  },
+  {
+    "id": 38,
+    "title": "Mythical Constellation",
+    "promptText": "The subject traced as a glowing constellation of stars against a dark, nebula-filled night sky."
+  },
+  {
+    "id": 39,
+    "title": "Wanted Poster",
+    "promptText": "An old west 'WANTED' poster, with aged, burnt paper, bold western-style font, and a sketch of the subject."
+  },
+  {
+    "id": 40,
+    "title": "Abstract Expressionism",
+    "promptText": "An abstract expressionist painting in the style of Jackson Pollock, capturing the essence and energy of the subject through chaotic splatters and drips of paint."
+  },
+  {
+    "id": 41,
+    "title": "Movie Star Caricature",
+    "promptText": "A classic, hand-drawn caricature from a Hollywood restaurant wall, exaggerating key features in a fun, respectful way."
+  },
+  {
+    "id": 42,
+    "title": "Tiki Statue",
+    "promptText": "The subject carved as a wooden Tiki statue, with a stylized, expressive face and a tropical, island vibe."
+  },
+  {
+    "id": 43,
+    "title": "Zombie Apocalypse",
+    "promptText": "The subject as a gritty, weathered zombie apocalypse survivor, with tattered clothes, and a determined expression."
+  },
+  {
+    "id": 44,
+    "title": "Victorian Portrait",
+    "promptText": "A formal, sepia-toned Victorian-era portrait, with the subject in period clothing and a stoic, classic pose."
+  },
+  {
+    "id": 45,
+    "title": "Doodle Art",
+    "promptText": "Cover the subject in a dense, intricate layer of imaginative doodles, cartoons, and abstract patterns."
+  },
+  {
+    "id": 46,
+    "title": "Ghibli Animation Style",
+    "promptText": "Redraw the photo in the charming, wholesome, and beautifully detailed animation style of Studio Ghibli."
+  },
+  {
+    "id": 47,
+    "title": "Sand Sculpture",
+    "promptText": "The subject sculpted from wet sand on a sunny beach, detailed and impressive but temporary."
+  },
+  {
+    "id": 48,
+    "title": "Infrared Photo",
+    "promptText": "A surreal, false-color infrared photograph, where green foliage turns white or pink and skies are dark and dramatic."
+  },
+  {
+    "id": 49,
+    "title": "Ukiyo-e Woodblock",
+    "promptText": "A Japanese ukiyo-e woodblock print in the style of Hokusai, with bold outlines and flat areas of color."
+  },
+  {
+    "id": 50,
+    "title": "Chalk Pavement Art",
+    "promptText": "A colorful, three-dimensional chalk drawing on a pavement, with a masterful sense of perspective and illusion."
+  },
+  {
+    "id": 51,
+    "title": "Topiary Garden",
+    "promptText": "The subject's shape expertly trimmed from a lush green hedge, as a piece of living topiary garden art."
+  },
+  {
+    "id": 52,
+    "title": "Galactic Nebula",
+    "promptText": "The silhouette of the subject filled with a swirling, colorful galactic nebula and countless distant stars."
+  },
+  {
+    "id": 53,
+    "title": "Cave Painting",
+    "promptText": "A prehistoric cave painting of the subject, drawn with charcoal and ochre pigments on a rough stone surface."
+  },
+  {
+    "id": 54,
+    "title": "Royal Monarch",
+    "promptText": "A regal portrait of the subject as a powerful king or queen, wearing a crown, royal robes, and holding a scepter."
+  },
+  {
+    "id": 55,
+    "title": "Mad Scientist",
+    "promptText": "The subject as a mad scientist in a laboratory, with wild hair, a lab coat, and bubbling beakers in the background."
+  },
+  {
+    "id": 56,
+    "title": "Stealthy Ninja",
+    "promptText": "The subject as a stealthy ninja in a traditional black outfit, masked and ready for a covert mission."
+  },
+  {
+    "id": 57,
+    "title": "Swashbuckling Pirate",
+    "promptText": "The subject as a swashbuckling pirate captain on the deck of a ship, with an eyepatch, pirate hat, and a treasure map."
+  },
+  {
+    "id": 58,
+    "title": "Hard-boiled Detective",
+    "promptText": "The subject as a hard-boiled detective in a trench coat and fedora, standing on a rainy, neon-lit city street at night."
+  },
+  {
+    "id": 59,
+    "title": "Wise Wizard",
+    "promptText": "The subject as a wise, old wizard with a long beard, pointed hat, and a glowing staff, in a magical library."
+  },
+  {
+    "id": 60,
+    "title": "Famous Explorer",
+    "promptText": "The subject as a famous explorer in a jungle, holding a map, with ancient ruins visible through the dense foliage."
+  },
+  {
+    "id": 61,
+    "title": "Rock Star",
+    "promptText": "The subject as a rock star on a concert stage, with a guitar, spotlights, and an adoring crowd."
+  },
+  {
+    "id": 62,
+    "title": "Celebrity Chef",
+    "promptText": "The subject as a celebrity chef in a professional kitchen, garnishing a dish with intense focus."
+  },
+  {
+    "id": 63,
+    "title": "Olympic Athlete",
+    "promptText": "The subject as an Olympic athlete at the moment of victory, with a gold medal and a flag."
+  },
+  {
+    "id": 64,
+    "title": "Time Traveler",
+    "promptText": "The subject as a time traveler emerging from a swirling vortex, wearing an eclectic mix of clothing from different eras."
+  },
+  {
+    "id": 65,
+    "title": "Deep Sea Diver",
+    "promptText": "The subject in a vintage deep-sea diving suit, surrounded by bioluminescent fish and mysterious underwater ruins."
+  },
+  {
+    "id": 66,
+    "title": "Mountain Climber",
+    "promptText": "The subject as a mountaineer reaching the summit of a snowy, formidable peak at sunrise."
+  },
+  {
+    "id": 67,
+    "title": "Desert Wanderer",
+    "promptText": "The subject as a lone wanderer in a vast desert, with windswept robes and a dramatic, cinematic landscape."
+  },
+  {
+    "id": 68,
+    "title": "Secret Agent",
+    "promptText": "The subject as a suave secret agent in a tuxedo, with a high-tech gadget and a look of cool confidence."
+  },
+  {
+    "id": 69,
+    "title": "Arctic Explorer",
+    "promptText": "The subject as an arctic explorer in a heavy parka, with the aurora borealis lighting up the sky behind them."
+  },
+  {
+    "id": 70,
+    "title": "Circus Ringleader",
+    "promptText": "The subject as a charismatic circus ringleader in a top hat and tailcoat, standing in the center of a circus ring."
+  },
+  {
+    "id": 71,
+    "title": "Viking Warrior",
+    "promptText": "The subject as a fierce Viking warrior, with braided hair, war paint, and a trusty axe, on a longship."
+  },
+  {
+    "id": 72,
+    "title": "Pharaoh",
+    "promptText": "The subject as a powerful Egyptian Pharaoh, wearing the traditional headdress and sitting on a golden throne."
+  },
+  {
+    "id": 73,
+    "title": "Roman Gladiator",
+    "promptText": "The subject as a Roman gladiator in armor, standing in the middle of the Colosseum."
+  },
+  {
+    "id": 74,
+    "title": "Abstract Geometry",
+    "promptText": "Deconstruct the subject into an arrangement of abstract geometric shapes and vibrant colors."
+  },
+  {
+    "id": 75,
+    "title": "Ink Splash",
+    "promptText": "A dynamic and chaotic splash of black ink that forms the subject's portrait, with drips and splatters."
+  },
+  {
+    "id": 76,
+    "title": "Floral Growth",
+    "promptText": "The subject's form is overgrown with a beautiful arrangement of blooming flowers and twisting vines."
+  },
+  {
+    "id": 77,
+    "title": "Crystalized",
+    "promptText": "The subject appears to be made of glowing, translucent crystals, with sharp, geometric facets."
+  },
+  {
+    "id": 78,
+    "title": "Liquid Metal",
+    "promptText": "The subject made of reflective, flowing liquid metal, like chrome or mercury."
+  },
+  {
+    "id": 79,
+    "title": "Mosaic Tile",
+    "promptText": "A detailed mosaic made of tiny, colorful ceramic tiles that form the image of the subject."
+  },
+  {
+    "id": 80,
+    "title": "Smoke Art",
+    "promptText": "The subject's face formed from elegant, swirling wisps of smoke against a dark background."
+  },
+  {
+    "id": 81,
+    "title": "Light Painting",
+    "promptText": "A long-exposure photograph where the subject is 'painted' with moving trails of light."
+  },
+  {
+    "id": 82,
+    "title": "Newspaper Collage",
+    "promptText": "A collage made from torn newspaper headlines, articles, and photos that come together to form the subject."
+  },
+  {
+    "id": 83,
+    "title": "Burning Embers",
+    "promptText": "The subject's image formed from glowing, cracking, and burning embers, with sparks flying off."
+  },
+  {
+    "id": 84,
+    "title": "Da Vinci Sketch",
+    "promptText": "A scientific sketch in the style of Leonardo da Vinci, on aged paper with handwritten notes and anatomical details."
+  },
+  {
+    "id": 85,
+    "title": "Living Galaxy",
+    "promptText": "The subject's silhouette contains a living, swirling galaxy with planets, stars, and nebulae inside."
+  },
+  {
+    "id": 86,
+    "title": "Mechanical Parts",
+    "promptText": "A portrait constructed entirely from an assortment of mechanical parts like gears, wires, and pistons."
+  },
+  {
+    "id": 87,
+    "title": "Melting Wax",
+    "promptText": "The subject as if it were a candle, slowly melting and dripping wax."
+  },
+  {
+    "id": 88,
+    "title": "Urban Graffiti",
+    "promptText": "The subject as a piece of vibrant, stylized graffiti art, spray-painted on a brick wall."
+  },
+  {
+    "id": 89,
+    "title": "Ancient Tree Carving",
+    "promptText": "The subject's face carved into the bark of an ancient, wise-looking tree in a forest."
+  },
+  {
+    "id": 90,
+    "title": "Stuffed Animal",
+    "promptText": "Transform the subject into a cute, cuddly stuffed animal, with button eyes and stitched seams."
+  },
+  {
+    "id": 91,
+    "title": "8-Bit Hero",
+    "promptText": "An 8-bit video game sprite of the subject, ready for an adventure on a classic console."
+  },
+  {
+    "id": 92,
+    "title": "Stone Gargoyle",
+    "promptText": "The subject as a stone gargoyle, perched on the edge of a gothic cathedral, looking down on the city."
+  },
+  {
+    "id": 93,
+    "title": "Casino Playing Card",
+    "promptText": "The subject as the King, Queen, or Jack on a stylized casino playing card."
+  },
+  {
+    "id": 94,
+    "title": "Postage Stamp",
+    "promptText": "The subject featured on a collectible postage stamp, complete with a country name and denomination."
+  },
+  {
+    "id": 95,
+    "title": "Bank Note Portrait",
+    "promptText": "An engraved portrait of the subject, in the style of a president or historical figure on a dollar bill."
+  },
+  {
+    "id": 96,
+    "title": "Cosmic Being",
+    "promptText": "The subject as a powerful, cosmic entity made of stardust and light, floating in deep space."
+  },
+  {
+    "id": 97,
+    "title": "Synthwave Sunset",
+    "promptText": "An 80s synthwave aesthetic, with the subject against a sunset of grid lines, a low-poly landscape, and a chrome sports car."
+  },
+  {
+    "id": 98,
+    "title": "Storybook Illustration",
+    "promptText": "A charming, classic children's storybook illustration, with soft colors and a friendly, gentle style."
+  },
+  {
+    "id": 99,
+    "title": "Solar Flare",
+    "promptText": "The subject's form erupting from the surface of the sun as a massive, fiery solar flare."
+  },
+  {
+    "id": 100,
+    "title": "Your Inner Animal",
+    "promptText": "A powerful portrait that blends the person's face with their spirit animal, such as a wolf, eagle, or lion, in a 'power within' concept."
+  }
+]
