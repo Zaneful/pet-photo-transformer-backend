@@ -48,7 +48,7 @@ app.add_middleware(
 )
 
 # --- Load Prompts ---
-with open("prompts/prompts.json", "r") as f:
+with open("prompts.json", "r") as f:
     PROMPTS = json.load(f)
 
 @app.get("/")
