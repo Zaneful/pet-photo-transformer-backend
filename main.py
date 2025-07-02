@@ -18,7 +18,7 @@ app.add_middleware(
 
 # --- Load Prompts ---
 # This path is now updated to look inside the 'prompts' folder
-with open("prompts/prompts.json", "r") as f:
+with open("prompts.json", "r") as f:
     PROMPTS = json.load(f)
 
 # --- Environment Variables & Initializations ---
