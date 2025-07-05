@@ -33,7 +33,7 @@ def startup_event():
         print("Initializing Supabase and Vertex AI clients...")
         vertexai.init(project=GOOGLE_PROJECT_ID, location=GOOGLE_LOCATION)
         supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
-        generation_model = ImageGenerationModel.from_pretrained("imagegeneration@005")
+        generation_model = ImageGenerationModel.from_pretrained("imagen-2")
         print("Clients initialized successfully.")
     except Exception as e:
         # This will print the exact error if initialization fails
