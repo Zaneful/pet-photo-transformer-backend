@@ -1,502 +1,502 @@
 [
   {
     "id": 1,
-    "title": "Watercolor Painting",
-    "promptText": "Transform the photo into a soft, vibrant watercolor painting with blended colors and delicate brush strokes."
+    "title": "Abstract Digital Explosion",
+    "promptText": "Digital painting, a vibrant explosion of interconnected lines and geometric shapes, evolving from chaotic energy into harmonious flow, rendered in a psychedelic spectrum of neon blues, electric purples, and fiery oranges. Abstract Expressionism, high resolution, dynamic movement, 8k, --no recognizable objects."
   },
   {
     "id": 2,
-    "title": "Oil Painting",
-    "promptText": "Reimagine the photo as a classical oil painting with rich textures, deep shadows, and a dramatic, timeless feel."
+    "title": "Lyrical Oil Vortex",
+    "promptText": "Oil on canvas, a swirling vortex of deep indigo and crimson brushstrokes, symbolizing the quiet intensity of introspection, with subtle metallic gold flecks catching ambient light. Lyrical Abstraction, textured impasto, gallery quality, soft focus."
   },
   {
     "id": 3,
-    "title": "Pencil Sketch",
-    "promptText": "Convert the photo into a detailed, hand-drawn pencil sketch, emphasizing lines, shading, and texture."
+    "title": "Crystalline Polygon Structure",
+    "promptText": "3D render, a crystalline structure composed of interlocking, translucent polygons, emanating a soft, internal bioluminescent glow in cool greens and aquamarines, against a deep, velvety black void. Geometric abstraction, ultra-detailed, crisp quality, ambient occlusion."
   },
   {
     "id": 4,
-    "title": "Pop Art",
-    "promptText": "Andy Warhol style pop art, using bold, contrasting colors and repeated patterns, as if it were a screen print."
+    "title": "Watercolor Summer Breeze",
+    "promptText": "Watercolor art, a delicate wash of pastel pinks, yellows, and sky blues, bleeding into each other to represent the fleeting joy of a summer breeze. Soft edges, dreamlike, minimalist, visual poetry."
   },
   {
     "id": 5,
-    "title": "Anime Style",
-    "promptText": "Redraw the subject in a vibrant, modern anime/manga style with expressive eyes, dynamic lines, and cel-shaded colors."
+    "title": "Mixed Media Sound Waves",
+    "promptText": "Mixed media, an abstract representation of sound waves, visualized as textured, undulating ribbons of vibrant color (magenta, cyan, yellow) against a muted grey background, with subtle metallic sheen. Expressive techniques, dynamic, high contrast."
   },
   {
     "id": 6,
-    "title": "Steampunk",
-    "promptText": "Reimagine the subject in a steampunk world, adorned with brass gears, copper pipes, goggles, and Victorian-era technology."
+    "title": "Cyber-Abstract Circuits",
+    "promptText": "Digital illustration, a complex network of glowing, circuit-like lines forming an organic, non-representational shape, pulsating with electric blues and deep purples. Cyber-abstraction, high resolution, intricate details, technological marvel."
   },
   {
     "id": 7,
-    "title": "Cyberpunk Neon",
-    "promptText": "A cyberpunk version of the photo, drenched in neon lights, with futuristic cybernetic enhancements and a gritty, high-tech city background."
+    "title": "Acrylic Action Painting",
+    "promptText": "Acrylic painting, bold, thick brushstrokes of primary colors (red, yellow, blue) clashing and merging on a textured canvas, conveying raw, untamed energy. Action painting, vibrant, chaotic, expressive."
   },
   {
     "id": 8,
-    "title": "Vintage Film Look",
-    "promptText": "Give the photo a nostalgic, vintage film aesthetic, with faded colors, light leaks, and a grainy texture like an old photograph."
+    "title": "Photorealistic Liquid Abstract",
+    "promptText": "Photorealistic render, a macro shot of a liquid abstract form, resembling swirling paint in water, with iridescent effects and luminous, shifting colors like a nebula. Fluid dynamics, ultra-detailed, 16k, ethereal."
   },
   {
     "id": 9,
-    "title": "Gothic Horror",
-    "promptText": "A gothic horror movie poster from the 1950s, with dramatic shadows, eerie lighting, and a sense of suspense."
+    "title": "Charcoal Melancholy",
+    "promptText": "Charcoal drawing, an abstract composition of dark, heavy lines and smudged tones, creating a sense of profound melancholy and introspection. Expressive, high contrast, textured, somber mood."
   },
   {
     "id": 10,
-    "title": "Film Noir",
-    "promptText": "A high-contrast, black and white film noir scene, with dramatic lighting from Venetian blinds, deep shadows, and a mysterious mood."
+    "title": "Minimalist Duality",
+    "promptText": "Digital art, a minimalist composition of two perfectly balanced, interlocking spheres, one obsidian black and the other pure white, against a gradient background of subtle grey, symbolizing duality and harmony. Clean lines, serene, conceptual."
   },
   {
     "id": 11,
-    "title": "Fairy Tale",
-    "promptText": "Illustrate the subject as a character in a classic fairy tale, with enchanted forest surroundings and a storybook feel."
+    "title": "Glass Art Light Play",
+    "promptText": "Glass art, a sculpture of blown glass in abstract, organic forms, capturing and refracting light into a spectrum of bright, fragmented colors. Translucent, shimmering, light play, elegant."
   },
   {
     "id": 12,
-    "title": "Superhero Comic",
-    "promptText": "Transform the photo into a classic comic book panel, with bold outlines, Ben-Day dots, and dramatic action lines."
+    "title": "Textile Ancient Wisdom",
+    "promptText": "Textile art, a woven tapestry of abstract patterns and textures, using earthy tones (ochre, terracotta, deep green) and natural fibers, evoking a sense of ancient wisdom and connection to the earth. Tactile, intricate, warm."
   },
   {
     "id": 13,
-    "title": "Fantasy Knight",
-    "promptText": "Depict the subject as a noble fantasy knight in shining armor, holding a sword, with a castle in the background."
+    "title": "Color Field Clarity",
+    "promptText": "Digital painting, an abstract landscape composed of soft, blurred color fields in muted blues and grays, with a single, sharp line of vibrant yellow cutting through, symbolizing a moment of clarity in uncertainty. Color field painting, serene, contemplative."
   },
   {
     "id": 14,
-    "title": "Space Explorer",
-    "promptText": "The subject as an astronaut exploring a strange, alien planet with bizarre flora and two moons in the sky."
+    "title": "Vector Mandala",
+    "promptText": "Vector art, a complex, symmetrical mandala pattern made of intricate geometric shapes and lines, filled with a harmonious palette of jewel tones (emerald, sapphire, amethyst). Precise, detailed, meditative, spiritual."
   },
   {
     "id": 15,
-    "title": "Double Exposure",
-    "promptText": "A creative double exposure effect, blending the photo with a scenic landscape like a forest or a mountain range."
+    "title": "Abstract Expressionist Conflict",
+    "promptText": "Abstract expressionist oil painting, a canvas dominated by energetic, sweeping brushstrokes of fiery reds and deep blacks, conveying intense emotion and internal conflict. Chaotic, passionate, raw."
   },
   {
     "id": 16,
-    "title": "Holographic Glitch",
-    "promptText": "A futuristic, holographic glitch effect, with digital artifacts, scan lines, and a distorted, glowing blue and pink aura."
+    "title": "Dalí-esque Melting Clock",
+    "promptText": "Photorealistic render, a colossal melting clock draped over a gnarled, ancient baobab tree in a vast, desolate desert landscape under a sky of swirling nebulae and distant, glowing eyes. Inspired by Salvador Dalí, cinematic lighting, deep shadows, 16k, ultra-detailed, surreal."
   },
   {
     "id": 17,
-    "title": "Art Deco",
-    "promptText": "An elegant Art Deco style poster, characterized by bold geometric shapes, lavish ornamentation, and a 1920s jazz-age glamour."
+    "title": "Terrarium Head Figure",
+    "promptText": "Mixed media illustration, a solitary figure with a head made of a delicate glass terrarium containing a miniature, thriving ecosystem, walking on a path of levitating water droplets through a forest where trees are made of polished bone. Ethereal glow, dream imagery, symbolic."
   },
   {
     "id": 18,
-    "title": "Surrealist Dream",
-    "promptText": "A dreamlike, surrealist version of the photo, with melting objects, illogical scenery, and a mysterious, subconscious feel."
+    "title": "Literary Cityscape",
+    "promptText": "Digital painting, a bustling city street where buildings are constructed from stacks of oversized, open books, their pages fluttering in the wind, with tiny figures navigating the literary labyrinth. Surreal architecture, vibrant, imaginative, high detail."
   },
   {
     "id": 19,
-    "title": "Minimalist Line Art",
-    "promptText": "Reduce the photo to minimalist, one-line art, capturing the essential form with a single, continuous, elegant line."
+    "title": "Teacup Ocean Lighthouse",
+    "promptText": "Fine art photography, a porcelain teacup floating upside down in a calm, moonlit ocean, with a tiny, glowing lighthouse emerging from its rim, casting a beam across the water. Dreamlike, tranquil, symbolic, soft focus."
   },
   {
     "id": 20,
-    "title": "Claymation Figure",
-    "promptText": "Recreate the photo as if the subject were a stop-motion claymation figure, with exaggerated features and a textured, handmade look."
+    "title": "Hand Holding Cityscape Droplet",
+    "promptText": "Oil on canvas, a human hand emerging from a cloud, holding a single, perfectly formed rain droplet that reflects an entire miniature, vibrant cityscape. Surreal, hyper-detailed, dramatic lighting, masterpiece."
   },
   {
     "id": 21,
-    "title": "Stained Glass",
-    "promptText": "Transform the image into a luminous stained glass window, with bold black lines separating vibrant, glowing panes of color."
+    "title": "Jellyfish Library",
+    "promptText": "3D render, a giant, iridescent jellyfish drifting through a sun-drenched, abandoned library, its tentacles gently brushing against dusty bookshelves filled with glowing tomes. Ethereal, whimsical, dreamscape, volumetric light."
   },
   {
     "id": 22,
-    "title": "Ancient Hieroglyph",
-    "promptText": "Depict the subject as an ancient Egyptian hieroglyph painted on a stone wall, in a classic, stylized profile view."
+    "title": "Sky Eye Waterfall",
+    "promptText": "Illustration, a serene landscape where the sky is a vast, open eye, and tears fall as waterfalls into a lake formed by a giant, sleeping human ear. Surreal, symbolic, muted colors, tranquil."
   },
   {
     "id": 23,
-    "title": "Tribal Tattoo Art",
-    "promptText": "Convert the image into a bold, black ink tribal tattoo design, using sharp, flowing lines and abstract patterns."
+    "title": "Cosmic Face Collage",
+    "promptText": "Digital collage, a portrait of a person whose face is composed of fragmented pieces of a starry night sky, with constellations forming facial features, against a backdrop of a bustling, futuristic metropolis. Non-linear narrative, cosmic, striking contrast."
   },
   {
     "id": 24,
-    "title": "Pixel Art",
-    "promptText": "Recreate the photo as 16-bit pixel art, as if it were a character or scene from a classic video game."
+    "title": "Submerged Piano",
+    "promptText": "Photorealistic render, a grand piano submerged in a crystal-clear lake, its keys gently played by schools of colorful, bioluminescent fish, under a sky where clouds are shaped like musical notes. Whimsical, dreamlike, serene, 8k."
   },
   {
     "id": 25,
-    "title": "Toy Block Figure",
-    "promptText": "Reimagine the subject as if it were built from popular toy bricks, with a blocky, colorful, and playful appearance."
+    "title": "Floating Keyhole Desert",
+    "promptText": "Mixed media art, a solitary, antique keyhole floating in a vast, empty desert, through which a vibrant, lush jungle ecosystem is visible, implying a hidden world. Symbolic, mysterious, high contrast, surreal."
   },
   {
     "id": 26,
-    "title": "Ghostly Apparition",
-    "promptText": "A ghostly, ethereal version of the subject, translucent and glowing with a faint, eerie light."
+    "title": "Clockwork Tree Forest",
+    "promptText": "Digital painting, a forest where trees have roots that are intricate clock gears, and their leaves are tiny, shimmering hourglasses, with time visibly trickling through them. Surreal, fantasy, detailed, golden hour lighting."
   },
   {
     "id": 27,
-    "title": "Fire Elemental",
-    "promptText": "Transform the subject into a being of pure fire, with flickering flames for hair and skin made of living magma."
+    "title": "Glass Heart Storm",
+    "promptText": "Conceptual art, a human heart, rendered as a fragile, glowing glass orb, suspended in a dark, stormy sky, with lightning striking around it, symbolizing vulnerability and resilience. Symbolic, dramatic, intense, high contrast."
   },
   {
     "id": 28,
-    "title": "Ice Sculpture",
-    "promptText": "Carved from a single block of clear, glistening ice, the subject is a beautiful, frozen ice sculpture."
+    "title": "Vein Tree Ocean",
+    "promptText": "Photorealistic render, a massive, ancient tree whose branches are made of intricate, interconnected human veins, flowing with a luminous, golden liquid, against a backdrop of a vast, tranquil ocean. Organic surrealism, detailed, ethereal."
   },
   {
     "id": 29,
-    "title": "Forest Spirit",
-    "promptText": "The subject as a mythical forest spirit, with skin made of bark, leaves for hair, and glowing mushroom companions."
+    "title": "Book Butterflies",
+    "promptText": "Watercolor painting, a whimsical scene of a person reading a book, but the words on the pages are transforming into tiny, colorful butterflies that flutter off the page and into the room. Dreamlike, playful, soft focus."
   },
   {
     "id": 30,
-    "title": "Cloud Formation",
-    "promptText": "The subject's form seen as a soft, white cloud formation against a bright blue sky."
+    "title": "Sentient Shadows City",
+    "promptText": "Digital illustration, a cityscape where all shadows are sentient, flowing entities, subtly interacting with the environment, creating a sense of hidden life and mystery. Surreal, dynamic, monochromatic with subtle color accents."
   },
   {
     "id": 31,
-    "title": "Old World Map",
-    "promptText": "Drawn in the style of an ancient, 'Here be dragons' world map, on aged parchment with classic cartographic illustrations."
+    "title": "Victorian Cyberpunk Street",
+    "promptText": "3D render, a bustling Victorian-era streetscape with horse-drawn carriages and gas lamps, seamlessly integrated with futuristic cyberpunk elements: holographic advertisements shimmering above, flying cars weaving between ornate buildings, and neon-lit steam vents. Cinematic wide shot, dramatic rain, volumetric lighting, 8K, trending on ArtStation."
   },
   {
     "id": 32,
-    "title": "Blueprint Drawing",
-    "promptText": "An architectural blueprint of the subject, drawn in white lines on a blue background with technical annotations."
+    "title": "Whale Forest Canopy",
+    "promptText": "Watercolor painting, a majestic whale swimming gracefully through a dense, bioluminescent forest canopy, its skin reflecting the soft, glowing fungi and ethereal light filtering through the leaves. Fantasy art, dreamlike, soft brush strokes, high detail."
   },
   {
     "id": 33,
-    "title": "Psychedelic Art",
-    "promptText": "A 1960s psychedelic rock poster, with swirling, vibrant, and highly detailed patterns and distorted, flowing text."
+    "title": "Teacup in Space",
+    "promptText": "Photorealistic render, a delicate porcelain teacup, meticulously crafted, floating in the vacuum of deep space, with a tiny, vibrant galaxy swirling within the tea. Macro shot, ethereal lighting, cosmic, ultra-detailed."
   },
   {
     "id": 34,
-    "title": "Golden Statue",
-    "promptText": "Transform the subject into a polished, reflective golden statue on a marble pedestal."
+    "title": "Medieval Hoverbike Knight",
+    "promptText": "Digital painting, a medieval knight in full, gleaming armor, riding a sleek, futuristic hoverbike through a dense, enchanted forest, encountering mythical creatures. Fantasy sci-fi fusion, dynamic, high contrast, epic."
   },
   {
     "id": 35,
-    "title": "Origami Paper Art",
-    "promptText": "The subject as if it were crafted from a single sheet of folded paper, in an intricate origami style."
+    "title": "Greek Statue Circuitry",
+    "promptText": "Mixed media, a classical Greek statue, rendered in crumbling marble, but with intricate, glowing circuit board patterns visible beneath the cracks, standing on a desolate Martian landscape. Ancient future, symbolic, dramatic lighting."
   },
   {
     "id": 36,
-    "title": "Low Poly Geometric",
-    "promptText": "A modern, low-poly geometric art style, using a mesh of colorful triangles and polygons to form the subject."
+    "title": "Cloud Candy Rain",
+    "promptText": "Illustration, a giant, fluffy cloud shaped like a whimsical cartoon character, gently raining down colorful, oversized candies onto a bustling, realistic city street. Playful, surreal, vibrant, dreamlike."
   },
   {
     "id": 37,
-    "title": "Impressionist Painting",
-    "promptText": "An impressionist masterpiece in the style of Monet, with visible brushstrokes, emphasis on light, and a soft, hazy quality."
+    "title": "Typewriter Arctic Aurora",
+    "promptText": "Photorealistic render, a solitary, antique typewriter on a vast, frozen arctic plain, its keys made of delicate ice crystals, with a vibrant aurora borealis swirling above. Melancholy, beautiful, high detail, surreal."
   },
   {
     "id": 38,
-    "title": "Mythical Constellation",
-    "promptText": "The subject traced as a glowing constellation of stars against a dark, nebula-filled night sky."
+    "title": "LEGO Fantasy Marketplace",
+    "promptText": "3D render, a bustling marketplace in a fantasy world, filled with mythical creatures and magical items, but all the stalls and goods are made of intricate, interlocking LEGO bricks. Whimsical, detailed, vibrant, playful."
   },
   {
     "id": 39,
-    "title": "Wanted Poster",
-    "promptText": "An old west 'WANTED' poster, with aged, burnt paper, bold western-style font, and a sketch of the subject."
+    "title": "Underwater Cyberpunk City",
+    "promptText": "Digital painting, a deep-sea diver in a vintage brass helmet exploring a sunken, futuristic cityscape, where neon lights illuminate bioluminescent marine life swimming through abandoned skyscrapers. Underwater sci-fi, mysterious, glowing, cinematic."
   },
   {
     "id": 40,
-    "title": "Abstract Expressionism",
-    "promptText": "An abstract expressionist painting in the style of Jackson Pollock, capturing the essence and energy of the subject through chaotic splatters and drips of paint."
+    "title": "Cherry Blossom Heart",
+    "promptText": "Fine art photography, a human heart, anatomically correct, but composed entirely of delicate, blossoming cherry tree petals, floating in a serene, clear mountain spring. Symbolic, fragile, ethereal, soft focus."
   },
   {
     "id": 41,
-    "title": "Movie Star Caricature",
-    "promptText": "A classic, hand-drawn caricature from a Hollywood restaurant wall, exaggerating key features in a fun, respectful way."
+    "title": "Martian Astronaut Dawn",
+    "promptText": "Photorealistic medium shot, a lone astronaut standing on a desolate Martian landscape at dawn, the red dust swirling around their boots, with Earth visible as a distant blue marble in the star-filled sky. Dramatic low-angle cinematic lighting, strong rim light on the helmet, 8K, shot on Arri Alexa, 35mm lens, shallow depth of field."
   },
   {
     "id": 42,
-    "title": "Tiki Statue",
-    "promptText": "The subject carved as a wooden Tiki statue, with a stylized, expressive face and a tropical, island vibe."
+    "title": "Rainy Tokyo Night",
+    "promptText": "Cinematic wide shot, a bustling Tokyo street at night, drenched in rain, with vibrant neon signs reflecting in the wet pavement. A solitary figure with an umbrella walks away from the camera, their silhouette framed by the glowing city. Volumetric fog, urban night lights, high contrast, film noir aesthetic, 16K."
   },
   {
     "id": 43,
-    "title": "Zombie Apocalypse",
-    "promptText": "The subject as a gritty, weathered zombie apocalypse survivor, with tattered clothes, and a determined expression."
+    "title": "Elderly Woman Golden Hour",
+    "promptText": "Portrait, an elderly woman with deep wrinkles and kind eyes, sitting by a window, bathed in soft, warm golden hour lighting that accentuates her wisdom and serenity. Cinematic depth, soft focus, natural film grain, 4K."
   },
   {
     "id": 44,
-    "title": "Victorian Portrait",
-    "promptText": "A formal, sepia-toned Victorian-era portrait, with the subject in period clothing and a stoic, classic pose."
+    "title": "Child's Tear Campfire",
+    "promptText": "Cinematic close-up, a single tear rolling down a child's cheek, illuminated by the flickering light of a distant campfire in a dark, mysterious forest. Shallow depth of field, dramatic chiaroscuro, cool blues and warm oranges, high emotional impact."
   },
   {
     "id": 45,
-    "title": "Doodle Art",
-    "promptText": "Cover the subject in a dense, intricate layer of imaginative doodles, cartoons, and abstract patterns."
+    "title": "Desert Road Sunset Aerial",
+    "promptText": "Photorealistic aerial shot, a lone car driving on a winding desert road at sunset, casting a long, dramatic shadow across the vast, empty landscape. Epic panoramic view, golden hour lighting, muted earth tones, 8K, shot on drone."
   },
   {
     "id": 46,
-    "title": "Ghibli Animation Style",
-    "promptText": "Redraw the photo in the charming, wholesome, and beautifully detailed animation style of Studio Ghibli."
+    "title": "Detective Alley Film Noir",
+    "promptText": "Cinematic medium shot, a detective in a rain-soaked trench coat, standing under a flickering street lamp in a deserted alleyway, his face partially obscured by shadow. Film noir lighting, high contrast black and white, deep shadows, mysterious mood."
   },
   {
     "id": 47,
-    "title": "Sand Sculpture",
-    "promptText": "The subject sculpted from wet sand on a sunny beach, detailed and impressive but temporary."
+    "title": "Rainforest Waterfall Sunlight",
+    "promptText": "Photorealistic wide shot, a majestic waterfall cascading into a crystal-clear pool in a lush, untouched rainforest, with soft, diffused sunlight filtering through the dense canopy. Ethereal, tranquil, vibrant greens, 8K, deep depth of field."
   },
   {
     "id": 48,
-    "title": "Infrared Photo",
-    "promptText": "A surreal, false-color infrared photograph, where green foliage turns white or pink and skies are dark and dramatic."
+    "title": "Hand Reaching Ethereal Light",
+    "promptText": "Cinematic close-up, a hand reaching out to touch a shimmering, ethereal light source in a dark, cavernous space. Volumetric light rays, dramatic backlighting, deep shadows, sense of wonder and mystery."
   },
   {
     "id": 49,
-    "title": "Ukiyo-e Woodblock",
-    "promptText": "A Japanese ukiyo-e woodblock print in the style of Hokusai, with bold outlines and flat areas of color."
+    "title": "Pink Hair Portrait 90s Indie",
+    "promptText": "Photorealistic portrait, a young woman with brightly dyed pink hair and freckled skin, looking directly and intently into the camera lens with a hopeful yet slightly uncertain smile. Cinematic, nostalgic warmth, soft golden hour sunlight, lens flare, natural film grain, 90s indie film aesthetic, 4K."
   },
   {
     "id": 50,
-    "title": "Chalk Pavement Art",
-    "promptText": "A colorful, three-dimensional chalk drawing on a pavement, with a masterful sense of perspective and illusion."
+    "title": "Arctic Outpost Blizzard",
+    "promptText": "Cinematic establishing shot, a small, isolated research outpost nestled amidst snow-capped peaks during a severe nighttime blizzard, with a single window glowing with warm, inviting light. Bleak, isolating, powerful winds, volumetric snow, 16K."
   },
   {
     "id": 51,
-    "title": "Topiary Garden",
-    "promptText": "The subject's shape expertly trimmed from a lush green hedge, as a piece of living topiary garden art."
+    "title": "Kingfisher Dawn Lake",
+    "promptText": "Photorealistic medium shot, a white-throated kingfisher stretching its magnificent wings against the backdrop of a serene lake environment at dawn, water dripping elegantly from its widely spread feathers. Low angle, warm light saturates the bird's plumage, subtle environmental details in soft-focus background, 8K."
   },
   {
     "id": 52,
-    "title": "Galactic Nebula",
-    "promptText": "The silhouette of the subject filled with a swirling, colorful galactic nebula and countless distant stars."
+    "title": "Baleen Whale Breach Drone",
+    "promptText": "Cinematic wide shot, a pod of immense baleen whales breaching spectacularly from deep offshore waters, creating enormous splashes and showering cascades of water droplets, against misty, fjord-like coastlines. Shot using a stabilized drone, dramatic, epic natural scene, 16K."
   },
   {
     "id": 53,
-    "title": "Cave Painting",
-    "promptText": "A prehistoric cave painting of the subject, drawn with charcoal and ochre pigments on a rough stone surface."
+    "title": "Golden Retriever Car Window",
+    "promptText": "Photorealistic close-up, a golden retriever with its head thrust eagerly out a car window, mouth open in a wide, happy pant, long pink tongue lolling out and catching the wind, golden fur rippling. Dynamic motion blur of out-of-focus greens and greys in background, sheer unadulterated joy, 4K."
   },
   {
     "id": 54,
-    "title": "Royal Monarch",
-    "promptText": "A regal portrait of the subject as a powerful king or queen, wearing a crown, royal robes, and holding a scepter."
+    "title": "Alien Landscape Binary Sunset",
+    "promptText": "Cinematic still, a lone figure standing on a cliff edge, overlooking a vast, alien landscape under a binary sunset, their silhouette dramatic against the surreal sky. High contrast, deep shadows, vibrant, otherworldly colors, 16K."
   },
   {
     "id": 55,
-    "title": "Mad Scientist",
-    "promptText": "The subject as a mad scientist in a laboratory, with wild hair, a lab coat, and bubbling beakers in the background."
+    "title": "Forest Fire Portrait",
+    "promptText": "Photorealistic portrait, a person with a determined expression, standing against a backdrop of a raging forest fire, smoke and embers filling the air. Close-up shot, dramatic lighting, intense, realistic, 8K."
   },
   {
     "id": 56,
-    "title": "Stealthy Ninja",
-    "promptText": "The subject as a stealthy ninja in a traditional black outfit, masked and ready for a covert mission."
+    "title": "Chameleon Eye Macro",
+    "promptText": "Wildlife macro photography, an extreme close-up of a chameleon's eye, showcasing the intricate, shifting texture of its skin and the granular detail of its iris, with abstract dappled light filtering through vibrant, dewy leaves in the background. Ultra-detailed, 8K, razor-thin depth of field, natural light."
   },
   {
     "id": 57,
-    "title": "Swashbuckling Pirate",
-    "promptText": "The subject as a swashbuckling pirate captain on the deck of a ship, with an eyepatch, pirate hat, and a treasure map."
+    "title": "Sourdough Bread Macro",
+    "promptText": "Hyperrealistic digital food photograph, a perfectly rendered slice of artisanal sourdough bread, revealing the crisp, golden crust, the intricate web of air pockets within the crumb, and tiny flour dustings. Shot on a rustic wooden board with dramatic overhead lighting, sharp focus, 16K, HDR."
   },
   {
     "id": 58,
-    "title": "Hard-boiled Detective",
-    "promptText": "The subject as a hard-boiled detective in a trench coat and fedora, standing on a rainy, neon-lit city street at night."
+    "title": "Snowflake Macro",
+    "promptText": "Macro photography, a single, delicate snowflake resting on a dark velvet surface, showcasing its intricate crystalline structure and perfect symmetry, with subtle reflections of ambient light. Ultra-detailed, 8K, sharp focus, soft lighting."
   },
   {
     "id": 59,
-    "title": "Wise Wizard",
-    "promptText": "The subject as a wise, old wizard with a long beard, pointed hat, and a glowing staff, in a magical library."
+    "title": "Human Eye Macro",
+    "promptText": "Photorealistic render, a close-up of a human eye, focusing on the intricate patterns of the iris, the subtle veins in the sclera, and the wet sheen of the cornea, with a reflection of a distant cityscape. Ultra-detailed, 16K, shallow depth of field, natural light."
   },
   {
     "id": 60,
-    "title": "Famous Explorer",
-    "promptText": "The subject as a famous explorer in a jungle, holding a map, with ancient ruins visible through the dense foliage."
+    "title": "Water Drop Desert Rock",
+    "promptText": "Hyperrealistic digital rendering, a drop of water splashing onto a highly textured, dusty desert rock, capturing the precise moment of impact and the micro-splashes, with fine sand grains visible. Ultra-detailed, 8K, high-speed photography effect, crisp quality."
   },
   {
     "id": 61,
-    "title": "Rock Star",
-    "promptText": "The subject as a rock star on a concert stage, with a guitar, spotlights, and an adoring crowd."
+    "title": "Soap Bubble Iridescence",
+    "promptText": "Photorealistic extreme close-up, the surface of a soap bubble, showcasing mesmerizing, swirling iridescent colors and the impossibly thin, fluid film with visible currents and eddies. Pure physics of light, shimmering golds, electric pinks, vibrant greens, and deep blues, 16K, UHD."
   },
   {
     "id": 62,
-    "title": "Celebrity Chef",
-    "promptText": "The subject as a celebrity chef in a professional kitchen, garnishing a dish with intense focus."
+    "title": "Mineral Crystal Cluster",
+    "promptText": "Macro photography, a cluster of delicate interconnected mineral crystals, cool pastel colors manifesting as subtle variations within their structures, shimmering silvers arising from reflective facets. Translucent, glass-like crystal spheres interspersed, ultra-detailed, 8K."
   },
   {
     "id": 63,
-    "title": "Olympic Athlete",
-    "promptText": "The subject as an Olympic athlete at the moment of victory, with a gold medal and a flag."
+    "title": "Knitted Countryside Landscape",
+    "promptText": "Hyperrealistic digital rendering, a knitted countryside landscape, with rolling hills made of textured stitches like seed stitch, low stone walls crocheted from grey yarn, and sheep knitted from fluffy white boucle yarn. Tactile, whimsical, 16K, soft lighting."
   },
   {
     "id": 64,
-    "title": "Time Traveler",
-    "promptText": "The subject as a time traveler emerging from a swirling vortex, wearing an eclectic mix of clothing from different eras."
+    "title": "Embroidered Velvet Sleeve",
+    "promptText": "Photorealistic render, a luxurious garment's sleeve made of rich velvet, intricately embroidered with shimmering gold thread, iridescent beads, tiny faceted crystals, and lustrous faux pearls. Flawless, pale skin of a hand visible, single statement jewelry piece, ultra-detailed, 16K."
   },
   {
     "id": 65,
-    "title": "Deep Sea Diver",
-    "promptText": "The subject in a vintage deep-sea diving suit, surrounded by bioluminescent fish and mysterious underwater ruins."
+    "title": "Betta Fish Scale Pattern",
+    "promptText": "Macro photography, the intricate scale pattern of a Betta fish, showcasing intense, shifting metallic iridescence and delicate, fan-like texture. Stunning shifts from electric blue to deep teal, royal purple, or fiery red, ultra-detailed, 8K."
   },
   {
     "id": 66,
-    "title": "Mountain Climber",
-    "promptText": "The subject as a mountaineer reaching the summit of a snowy, formidable peak at sunrise."
+    "title": "Hopper Parisian Café",
+    "promptText": "Oil painting, a bustling Parisian café scene in the style of Edward Hopper, with a solitary figure at a candlelit table, cigarette smoke curling, eyes heavy with lost hope. Deep shadows and chiaroscuro lighting, moody storm blue and sepia tones, expressive brushwork, gallery-quality, 8k."
   },
   {
     "id": 67,
-    "title": "Desert Wanderer",
-    "promptText": "The subject as a lone wanderer in a vast desert, with windswept robes and a dramatic, cinematic landscape."
+    "title": "Warhol Lichtenstein Pop Art",
+    "promptText": "Illustration, a vibrant pop art portrait of a classic movie star, with bold, contrasting primary colors, comic book-style halftone dots, and thick black outlines. Inspired by Andy Warhol and Roy Lichtenstein, high saturation, graphic novel aesthetic."
   },
   {
     "id": 68,
-    "title": "Secret Agent",
-    "promptText": "The subject as a suave secret agent in a tuxedo, with a high-tech gadget and a look of cool confidence."
+    "title": "Monet Beach Sunset",
+    "promptText": "Watercolor painting, a serene beach at sunset with gentle waves and palm trees, rendered with soft, layered washes of transparent colors, evoking a peaceful, dreamy atmosphere. In the style of Claude Monet, impressionistic texture, 8K."
   },
   {
     "id": 69,
-    "title": "Arctic Explorer",
-    "promptText": "The subject as an arctic explorer in a heavy parka, with the aurora borealis lighting up the sky behind them."
+    "title": "Van Gogh Starry Night Landscape",
+    "promptText": "Digital painting, a fantastical landscape featuring swirling, vibrant brushstrokes that capture the emotional intensity of a starry night over a cypress tree and a small village. In the style of Vincent Van Gogh, expressive, luminous, high detail."
   },
   {
     "id": 70,
-    "title": "Circus Ringleader",
-    "promptText": "The subject as a charismatic circus ringleader in a top hat and tailcoat, standing in the center of a circus ring."
+    "title": "Picasso Cubist Musician",
+    "promptText": "Illustration, an angular, fragmented portrait of a musician playing a guitar, showcasing multiple perspectives simultaneously, with geometric shapes and a muted color palette. In the style of Pablo Picasso's Cubism, abstract, conceptual."
   },
   {
     "id": 71,
-    "title": "Viking Warrior",
-    "promptText": "The subject as a fierce Viking warrior, with braided hair, war paint, and a trusty axe, on a longship."
+    "title": "Hokusai Great Wave Woodcut",
+    "promptText": "Woodcut print, a powerful depiction of a giant wave crashing against a rocky shore, with bold, clean lines and strong contrasts between black and white, evoking the raw power of nature. In the style of Hokusai, traditional Japanese art, dramatic."
   },
   {
     "id": 72,
-    "title": "Pharaoh",
-    "promptText": "The subject as a powerful Egyptian Pharaoh, wearing the traditional headdress and sitting on a golden throne."
+    "title": "Art Deco Futuristic City",
+    "promptText": "Digital art, a futuristic cityscape with towering skyscrapers and flying cars, rendered with sleek lines, geometric patterns, and metallic materials, dominated by gold, silver, and deep blues. Art Deco aesthetic, professional, classic look."
   },
   {
     "id": 73,
-    "title": "Roman Gladiator",
-    "promptText": "The subject as a Roman gladiator in armor, standing in the middle of the Colosseum."
+    "title": "Whimsical Folklore Illustration",
+    "promptText": "Illustration, a whimsical scene of a child interacting with oversized, fantastical creatures in an enchanted forest, rendered with delicate linework and visibly textured color fills, resembling colored pencil or textured gouache. Whimsical landscape illustration, gentle folklore, peaceful."
   },
   {
     "id": 74,
-    "title": "Abstract Geometry",
-    "promptText": "Deconstruct the subject into an arrangement of abstract geometric shapes and vibrant colors."
+    "title": "Chiaroscuro Still Life",
+    "promptText": "Oil painting, a rustic still life featuring a bowl of fruit and a ceramic jug on a wooden table, rendered with richly textured impasto, deep shadows, and a single, dramatic light source like candlelight. Chiaroscuro, visible brushstrokes, classic composition, 8K."
   },
   {
     "id": 75,
-    "title": "Ink Splash",
-    "promptText": "A dynamic and chaotic splash of black ink that forms the subject's portrait, with drips and splatters."
+    "title": "Sumi-e Dragon Mist",
+    "promptText": "Sumi-e ink wash painting, a majestic Eastern dragon coiling gracefully amidst mist-shrouded mountain peaks, rendered with stark contrasts between deep blacks and untouched whites, conveying serene power and ancient wisdom. Traditional Sumi-e style, atmospheric, detailed."
   },
   {
     "id": 76,
-    "title": "Floral Growth",
-    "promptText": "The subject's form is overgrown with a beautiful arrangement of blooming flowers and twisting vines."
+    "title": "Impasto Coastal Path",
+    "promptText": "Expressive landscape painting, a rugged coastal path overlooking a turbulent sea, rendered with thick, visible brushstrokes and palette knife marks creating significant surface texture, emphasizing raw energy. Impasto, distinct blocky shapes, 8K."
   },
   {
     "id": 77,
-    "title": "Crystalized",
-    "promptText": "The subject appears to be made of glowing, translucent crystals, with sharp, geometric facets."
+    "title": "Watercolor Botanical Raspberries",
+    "promptText": "Watercolor illustration, a vintage botanical study of raspberries, delicate and precise, with soft, layered washes of color, tiny hair-like styles visible on the berries, and visible paper texture and subtle water blooms. Detailed, natural, 8K."
   },
   {
     "id": 78,
-    "title": "Liquid Metal",
-    "promptText": "The subject made of reflective, flowing liquid metal, like chrome or mercury."
+    "title": "Hong Kong Diner Narrative",
+    "promptText": "Atmospheric narrative illustration, a bustling, late-night eatery reminiscent of a vintage Hong Kong diner, blending clean linework with textured color fields, with soft, warm overhead lighting. Specific cultural setting, narrative scene, 8K."
   },
   {
     "id": 79,
-    "title": "Mosaic Tile",
-    "promptText": "A detailed mosaic made of tiny, colorful ceramic tiles that form the image of the subject."
+    "title": "Painterly Forest Cabin",
+    "promptText": "Painterly landscape, a remote wooden cabin nestled in a forest, rendered with blocky, distinct brushstrokes to build forms, emphasizing shape, color, and texture over fine detail, conveying serenity and isolation. Simplified, textured, 8K."
   },
   {
     "id": 80,
-    "title": "Smoke Art",
-    "promptText": "The subject's face formed from elegant, swirling wisps of smoke against a dark background."
+    "title": "Graphic Fashion Poster",
+    "promptText": "Digital illustration, a vibrant graphic poster for a fashion show, with crisp, consistent black outlines defining forms filled with completely flat, high-saturation colors, omitting gradients entirely, featuring exaggerated, oversized suits with wildly clashing patterns. Contemporary fashion poster style, bold, stylized, 8K."
   },
   {
     "id": 81,
-    "title": "Light Painting",
-    "promptText": "A long-exposure photograph where the subject is 'painted' with moving trails of light."
+    "title": "Watercolor Quilling Landscape",
+    "promptText": "Mixed media artwork, a serene landscape featuring a crystal-clear mountain lake at sunrise, rendered with the delicate transparency of watercolor washes for the sky and water, but with the foreground pine trees and distant snow-capped peaks created using intricate paper quilling textures. Soft, ethereal lighting, harmonious pastel colors, 8K, highly detailed."
   },
   {
     "id": 82,
-    "title": "Newspaper Collage",
-    "promptText": "A collage made from torn newspaper headlines, articles, and photos that come together to form the subject."
+    "title": "Blown Glass Cityscape",
+    "promptText": "3D render, a futuristic cityscape made entirely of blown glass, with translucent buildings reflecting neon lights, and flying vehicles appearing as delicate, shimmering glass sculptures. Glass art, cinematic lighting, ultra-dimensional effect, octane render, 16k."
   },
   {
     "id": 83,
-    "title": "Burning Embers",
-    "promptText": "The subject's image formed from glowing, cracking, and burning embers, with sparks flying off."
+    "title": "Stone Skin Bioluminescent Eyes",
+    "promptText": "Digital painting, a portrait of a person where their skin appears to be made of ancient, weathered stone, but their eyes are glowing with bioluminescent light, and their hair is flowing water. Hyperrealistic texture, fantasy surrealism, dramatic lighting, 8K."
   },
   {
     "id": 84,
-    "title": "Da Vinci Sketch",
-    "promptText": "A scientific sketch in the style of Leonardo da Vinci, on aged paper with handwritten notes and anatomical details."
+    "title": "Painterly Realism Still Life",
+    "promptText": "Photorealistic render, a still life of fruit on a table, but rendered with the distinctive, thick, and textured brushstrokes of an oil painting, creating a tactile, painterly realism. Studio lighting, high resolution, unique textural effect."
   },
   {
     "id": 85,
-    "title": "Living Galaxy",
-    "promptText": "The subject's silhouette contains a living, swirling galaxy with planets, stars, and nebulae inside."
+    "title": "Papercraft Forest Animals",
+    "promptText": "Illustration, a whimsical scene of animals in a forest, but rendered in a papercraft style, with visible cut edges, layers, and folds, creating a charming 3D pop-up book aesthetic. Kid-friendly, soft lighting, vibrant colors."
   },
   {
     "id": 86,
-    "title": "Mechanical Parts",
-    "promptText": "A portrait constructed entirely from an assortment of mechanical parts like gears, wires, and pistons."
+    "title": "Circuit Board Sculpture",
+    "promptText": "Digital art, a classical sculpture of a human figure, but made entirely of intricate, glowing circuit boards and wires, standing in a dark, futuristic laboratory. Sci-fi Baroque, conceptual, dramatic backlighting, 8K."
   },
   {
     "id": 87,
-    "title": "Melting Wax",
-    "promptText": "The subject as if it were a candle, slowly melting and dripping wax."
+    "title": "Grunge Abstract Painting",
+    "promptText": "Mixed media, a vibrant abstract painting with energetic brushstrokes, but overlaid with a subtle, distressed grunge texture and faint halftone dots, creating a fusion of fine art and street art aesthetics. High contrast, bold colors, urban edge."
   },
   {
     "id": 88,
-    "title": "Urban Graffiti",
-    "promptText": "The subject as a piece of vibrant, stylized graffiti art, spray-painted on a brick wall."
+    "title": "Origami Mountain Landscape",
+    "promptText": "Photorealistic render, a landscape of towering mountains and a vast desert, but the entire scene is made of intricately folded origami paper, with visible creases and delicate shadows. Paper art, minimalist, serene, 8K."
   },
   {
     "id": 89,
-    "title": "Ancient Tree Carving",
-    "promptText": "The subject's face carved into the bark of an ancient, wise-looking tree in a forest."
+    "title": "Liquid Glass Portrait",
+    "promptText": "Digital painting, a portrait of a person rendered with the fluid, melting forms of liquid glass, their features distorted yet recognizable, reflecting vibrant neon lights. Surreal, ethereal, high detail, glowing."
   },
   {
     "id": 90,
-    "title": "Stuffed Animal",
-    "promptText": "Transform the subject into a cute, cuddly stuffed animal, with button eyes and stitched seams."
+    "title": "Steampunk Clockwork Creature",
+    "promptText": "Mixed media, a fantastical creature composed of intricate clockwork gears and mechanisms, but with wings made of delicate, iridescent butterfly wings, flying through a lush, overgrown steampunk garden. Mechanical organic fusion, detailed, whimsical, golden light."
   },
   {
     "id": 91,
-    "title": "8-Bit Hero",
-    "promptText": "An 8-bit video game sprite of the subject, ready for an adventure on a classic console."
+    "title": "Desert Dandelion Hope",
+    "promptText": "Fine art photography, a solitary figure standing on a vast, cracked desert floor, their shadow stretching infinitely, holding a single, glowing dandelion seed head, symbolizing resilience and the fragile hope of new beginnings amidst desolation. Soft, melancholic golden hour lighting, wide shot, deep depth of field, muted earth tones, evocative."
   },
   {
     "id": 92,
-    "title": "Stone Gargoyle",
-    "promptText": "The subject as a stone gargoyle, perched on the edge of a gothic cathedral, looking down on the city."
+    "title": "Brain Circuitry Cherry Blossoms",
+    "promptText": "Abstract digital painting, a human brain composed entirely of intricate, glowing circuits and delicate, blossoming cherry tree branches, suspended in a cosmic void, representing the fusion of intellect and ephemeral beauty, or the complexity of thought. Ethereal lighting, vibrant pinks and blues, symbolic, 8K."
   },
   {
     "id": 93,
-    "title": "Casino Playing Card",
-    "promptText": "The subject as the King, Queen, or Jack on a stylized casino playing card."
+    "title": "Cosmic Eye Stone Face",
+    "promptText": "Conceptual portrait, a person's face with eyes that reflect a swirling galaxy, stars flickering in the irises, while tears of liquid starlight stream down their cheeks. The face is rendered with the texture of ancient, weathered stone, conveying timeless wisdom and cosmic sorrow. Cinematic close-up, dramatic low-key lighting, deep jewel tones, hyper-realistic, surreal."
   },
   {
     "id": 94,
-    "title": "Postage Stamp",
-    "promptText": "The subject featured on a collectible postage stamp, complete with a country name and denomination."
+    "title": "Floating Books Library",
+    "promptText": "Surreal illustration, a grand, ornate library where books float freely in the air, their pages turning themselves, and the shelves are made of intertwined tree roots reaching towards a sky filled with constellations. A lone, glowing quill writes on an invisible scroll, symbolizing the endless pursuit of knowledge and the magic of storytelling. Dreamlike, rich colors, intricate details, fantasy art."
   },
   {
     "id": 95,
-    "title": "Bank Note Portrait",
-    "promptText": "An engraved portrait of the subject, in the style of a president or historical figure on a dollar bill."
+    "title": "Origami Boat Mercury Ocean",
+    "promptText": "Photorealistic render, a tiny, intricately detailed origami boat made of old, faded love letters, floating serenely on a vast, turbulent ocean of shimmering, liquid mercury. A single, delicate rose petal drifts beside it, symbolizing lost love and fleeting hope. Dramatic storm lighting, deep shadows, high contrast, surreal, 16K."
   },
   {
     "id": 96,
-    "title": "Cosmic Being",
-    "promptText": "The subject as a powerful, cosmic entity made of stardust and light, floating in deep space."
+    "title": "Fractured Glass Identity",
+    "promptText": "Abstract sculpture, a towering structure of fractured glass shards, each shard reflecting a different memory or emotion, converging to form a human silhouette. The structure is bathed in a kaleidoscope of shifting, bioluminescent colors, conveying the fragmented nature of identity and the beauty of vulnerability. Dynamic lighting, 3D render, high detail, conceptual art."
   },
   {
     "id": 97,
-    "title": "Synthwave Sunset",
-    "promptText": "An 80s synthwave aesthetic, with the subject against a sunset of grid lines, a low-poly landscape, and a chrome sports car."
+    "title": "Underwater City Dreams",
+    "promptText": "Cinematic still, a child in a vintage diving helmet exploring an underwater cityscape where buildings are overgrown with bioluminescent coral and ancient, rusted machinery. A school of glowing fish swims past a submerged street sign reading 'Dreams'. The scene evokes wonder, discovery, and a sense of forgotten worlds. Soft, diffused underwater lighting, cool blues and greens, wide shot, 8K."
   },
   {
     "id": 98,
-    "title": "Storybook Illustration",
-    "promptText": "A charming, classic children's storybook illustration, with soft colors and a friendly, gentle style."
+    "title": "Misty Hand Forest Droplet",
+    "promptText": "Mixed media art, a delicate, translucent hand reaching out from a swirling mist, holding a single, perfectly formed droplet of water that contains a miniature, vibrant forest landscape. The background is a blurred, abstract representation of human emotions – a mix of muted grays and sudden bursts of vibrant color. Symbolizing connection, fragility, and the internal world. Ethereal, dreamlike, textured, high detail."
   },
   {
     "id": 99,
-    "title": "Solar Flare",
-    "promptText": "The subject's form erupting from the surface of the sun as a massive, fiery solar flare."
+    "title": "Clockwork Flower Garden",
+    "promptText": "Illustration, a whimsical garden where oversized flowers have petals made of antique clock gears, and robotic bees pollinate them with streams of pure light. A small, curious child observes the scene, their reflection visible in a dewdrop on a metallic leaf. The scene evokes playful wonder and the fusion of nature and technology. Bright, fantastical colors, soft lighting, detailed, 3D rendering, memorable."
   },
   {
     "id": 100,
-    "title": "plane jayne",
-    "promptText": "simple depiction as if it/they were an aitplane"
+    "title": "Cosmic Abyss Eye",
+    "promptText": "Digital painting, a lone figure standing at the edge of a cosmic abyss, their silhouette framed by a swirling nebula that subtly forms the shape of a human eye. From the eye, a single tear falls, transforming into a cascade of stars. The scene symbolizes existential contemplation, the vastness of the universe, and the individual's place within it. Deep space colors, dramatic lighting, epic scale, highly detailed, visionary art."
   }
 ]
