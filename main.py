@@ -1,9 +1,9 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-import json, os, base64
+import json, os
 from supabase import create_client, Client
 
-# You will need to install the Vertex AI library: pip install google-cloud-aiplatform
+# Vertex AI SDK
 import vertexai
 from vertexai.preview.vision_models import ImageGenerationModel, Image
 
@@ -40,7 +40,6 @@ def startup_event():
         vertexai.init(project=GOOGLE_PROJECT_ID, location=GOOGLE_LOCATION)
         supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
-        # Log the model name before attempting to load it
         print(f"Loading model: {IMAGEN_MODEL_NAME}")
         generation_model = ImageGenerationModel.from_pretrained(IMAGEN_MODEL_NAME)
 
@@ -83,31 +82,4 @@ async def generate_image(prompt_id: int, file: UploadFile = File(...)):
 
     try:
         response = generation_model.edit_image(
-            base_image=source_image,
-            prompt=prompt,
-            number_of_images=1,
-        )
-        new_image_data_raw = response.images[0]._image_bytes
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Image generation failed: {e}")
-
-    try:
-        new_image_bytes = new_image_data_raw
-        filename = f"generated_{prompt_id}_{os.urandom(4).hex()}.png"
-        bucket_name_supabase = os.getenv("BUCKET")
-        if not bucket_name_supabase:
-            raise ValueError("SUPABASE BUCKET environment variable (BUCKET) is not set.")
-
-        from io import BytesIO
-        supabase.storage.from_(bucket_name_supabase).upload(
-            file=BytesIO(new_image_bytes),
-            path=filename,
-            file_options={"content-type": "image/png"}
-        )
-
-        public_url = supabase.storage.from_(bucket_name_supabase).get_public_url(filename)
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"File upload to Supabase failed: {e}")
-
-    return {"image_url": public_url}
-
+            base_image=source_imag
