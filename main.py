@@ -96,10 +96,10 @@ async def generate_image(prompt_id: int, file: UploadFile = File(...)):
         if not bucket_name_supabase:
             raise ValueError("SUPABASE BUCKET environment variable (BUCKET) is not set.")
 
-        # Pass raw bytes directly — do NOT wrap in BytesIO
+        # Corrected upload call: filename first, then bytes, no BytesIO wrapping
         supabase.storage.from_(bucket_name_supabase).upload(
-            file=new_image_bytes,
-            path=filename,
+            filename,
+            new_image_bytes,
             file_options={"content-type": "image/png"}
         )
 
